@@ -1,0 +1,113 @@
+[
+    {
+        "id": "AITU",
+        "name": "Astana IT University (AITU)",
+        "city": "Astana",
+        "type": "IT Focus",
+        "mission": "Training globally competitive IT specialists, driving innovation and digital transformation in Kazakhstan.",
+        "achievements": ["Ranked #1 IT-specialized university in Kazakhstan.", "Strongest industry collaboration (Astana Hub)."],
+        "admission": {
+            "min_unt_score": 125,
+            "cost_per_year": 1400000,
+            "deadline": "August 20",
+            "scholarships": ["AITU Excellence Grant (100%)", "Industry Partner Scholarships"]
+        },
+        "programs": [
+            {"name": "Software Engineering", "cost": 1400000, "duration": 4},
+            {"name": "Data Science", "cost": 1500000, "duration": 4},
+            {"name": "Cyber Security", "cost": 1450000, "duration": 4}
+        ],
+        "international": {
+            "exchange": "Rochester Institute of Technology (RIT), USA",
+            "partners": ["Google, Microsoft, Huawei"]
+        }
+    },
+    {
+        "id": "IITU",
+        "name": "International IT University (IITU)",
+        "city": "Almaty",
+        "type": "IT Focus (Almaty)",
+        "mission": "Providing world-class education in ICT, telecommunications, and high-tech industries in Central Asia.",
+        "achievements": ["Pioneer in IT education in Almaty.", "Strongest alumni network in Telecom sector."],
+        "admission": {
+            "min_unt_score": 120,
+            "cost_per_year": 1350000,
+            "deadline": "August 20",
+            "scholarships": ["MUІT Foundation Grant (70%)", "Academic Merit Scholarships"]
+        },
+        "programs": [
+            {"name": "Information Systems", "cost": 1350000, "duration": 4},
+            {"name": "Computer Science", "cost": 1300000, "duration": 4}
+        ],
+        "international": {
+            "exchange": "KAIST (South Korea)",
+            "partners": ["CISCO, IBM"]
+        }
+    },
+    {
+        "id": "KBTU",
+        "name": "Kazakh-British Technical University (KBTU)",
+        "city": "Almaty",
+        "type": "Oil & Gas / IT",
+        "mission": "Educating future leaders in high-tech and energy sectors through British educational standards.",
+        "achievements": ["Highest average UNT score for admission in Kazakhstan.", "Best in Petroleum Engineering."],
+        "admission": {
+            "min_unt_score": 128,
+            "cost_per_year": 1600000,
+            "deadline": "August 18",
+            "scholarships": ["KBTU Presidential Grant (100%)", "Shell/Chevron Scholarships"]
+        },
+        "programs": [
+            {"name": "IT Management", "cost": 1600000, "duration": 4},
+            {"name": "Petroleum Engineering", "cost": 1700000, "duration": 4}
+        ],
+        "international": {
+            "exchange": "University of Southampton (UK)",
+            "partners": ["British Council, Shell"]
+        }
+    },
+    {
+        "id": "YU",
+        "name": "Yessenov University (YU)",
+        "city": "Aktau",
+        "type": "Regional Technical",
+        "mission": "Focusing on regional development through applied science and engineering, particularly for the Caspian region.",
+        "achievements": ["Strong research in Marine Ecology and Logistics.", "The only large HEI in the Mangystau region."],
+        "admission": {
+            "min_unt_score": 90,
+            "cost_per_year": 750000,
+            "deadline": "August 30",
+            "scholarships": ["Regional Government Grants", "Mangystau Region Fund"]
+        },
+        "programs": [
+            {"name": "IT and Logistics", "cost": 750000, "duration": 4},
+            {"name": "Marine Engineering", "cost": 800000, "duration": 4}
+        ],
+        "international": {
+            "exchange": "Gdansk University of Technology (Poland)",
+            "partners": ["Caspian International"]
+        }
+    },
+    {
+        "id": "KTU",
+        "name": "Karaganda Technical University (KTU)",
+        "city": "Karaganda",
+        "type": "Technical & Mining",
+        "mission": "Developing engineers and technologists for Kazakhstan's industrial backbone, rooted in Karaganda's mining history.",
+        "achievements": ["One of the oldest technical HEIs in Central Kazakhstan.", "Best labs for Mining and Metallurgy."],
+        "admission": {
+            "min_unt_score": 95,
+            "cost_per_year": 850000,
+            "deadline": "August 25",
+            "scholarships": ["Mining Industry Grants", "Karaganda Regional Grants"]
+        },
+        "programs": [
+            {"name": "Mining Engineering", "cost": 850000, "duration": 4},
+            {"name": "Industrial Software", "cost": 900000, "duration": 4}
+        ],
+        "international": {
+            "exchange": "Ural Federal University (Russia)",
+            "partners": ["ArcelorMittal, Eurasian Resources Group"]
+        }
+    }
+]
